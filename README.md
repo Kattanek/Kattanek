@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kattanek
 - 👀 I’m interested in C# and .NET
-- 🌱 I’m currently learning Unity step by step
 - 💞️ I’m looking to collaborate on anything OpenSource related to C#, Data, APIs, Gaming, Hacks, Tools and much more
 
 <!---
